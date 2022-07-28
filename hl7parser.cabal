@@ -28,7 +28,6 @@ library
       HL7.DataTypes
       HL7.Parser
       HL7.Segments
-      Lib
   other-modules:
       Paths_hl7parser
   hs-source-dirs:
